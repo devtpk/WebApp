@@ -3,7 +3,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-<title>avnhomepage</title>
+<title>Marslander Home Page</title>
 <style>
 body{
 background-color: #f9f8f7;
@@ -39,7 +39,7 @@ color:white;
 <a href="avnlogin.jsp">Logout</a>
 </div>
 <h1 align="left" style="font-size: medium;color: #4d4d69;">Hi Tomcat..</h1>
-<h2 align="left" style="position: absolute;top: 80px;left: 328px;color: #4d4d69;">WELCOME TO YOUR ACCOUNT OVERVIEW</h2><br>
+<h2 align="left" style="position: absolute;top: 80px;left: 328px;color: #4d4d69;">WELCOME TO YOUR DASHBOARD</h2><br>
 <section class="wlp-login-message-content" style="left: 120px;top: 210px;">
 <b><p style="text-align: center;font-size: 25px;">DIGITAL TV</p></b>
 <a href="" style="color: white;font-size: 20px;position: absolute;left:65px;">Create</a><br>

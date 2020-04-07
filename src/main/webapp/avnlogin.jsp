@@ -213,7 +213,7 @@ The Marslander Help Desk, can assist with issues and concerns regarding:
    <div class="cta"><a href="">Forgot your password?</a></div>
    </div>
    <p class="text-center">
-   <span id="fullyear">2017</span>
+   <span id="fullyear">2020</span>
    &#169; DEVOPS UNION. All Rights Reserved.<br>
    | India | Singapore | Belgium | USA |
   </p>
